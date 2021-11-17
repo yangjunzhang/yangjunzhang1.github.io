@@ -26,6 +26,9 @@ Main project: Design the health underwriting algorithm for life insurance produc
 -	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
 -	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
 
+### DATASET CONTRIBUION:
+- MDRDC (Malevolent Dialogue Response Detection and Classfication) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
+
 ### PUBLICATIONS
 1. Yangjun Zhang, Pengjie Ren and Maarten de Rijke. A human-machine collaborative framework for evaluating malevolence in dialogues. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), Online, August 1-6, 2021. (CCF A)[pdf](https://aclanthology.org/2021.acl-long.436.pdf)
 2. Yangjun Zhang, Pengjie Ren and Maarten de Rijke. A taxonomy, data set, and benchmark for detecting and classifying malevolent dialogue responses[J]. The Journal of the Association for Information Science and Technology (JASIST), 2021, accepted. (CCF B, JCR Q1, CAS 2nd group, IF 2.41)[pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhang-2021-taxonomy.pdf)
