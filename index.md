@@ -1,5 +1,4 @@
 ## Welcome to Yangjun Zhang's Homepage
-![img](https://github.com/yangjunzhang/yangjunzhang.github.io/blob/main/img/img.jpeg)
 - PhD candidate at University of Amsterdam  
 - Major: Computer science  
 - Email: y.zhang6@uva.nl  
