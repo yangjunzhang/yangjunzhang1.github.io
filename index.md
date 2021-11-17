@@ -1,4 +1,5 @@
 ## Welcome to Yangjun Zhang's Homepage
+![img](https://github.com/yangjunzhang/yangjunzhang.github.io/blob/main/img/img.jpeg)
 - PhD candidate at University of Amsterdam  
 - Major: Computer science  
 - Email: y.zhang6@uva.nl  
@@ -26,8 +27,8 @@ Main project: Design the health underwriting algorithm for life insurance produc
 -	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
 -	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
 
-### DATASET CONTRIBUION
-- MDRDC (Malevolent Dialogue Response Detection and Classfication) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
+### DATASET CONTRIBUTION
+- MDRDC (Malevolent Dialogue Response Detection and Classification) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
 
 ### PUBLICATIONS
 1. **Yangjun Zhang**, Pengjie Ren and Maarten de Rijke. A human-machine collaborative framework for evaluating malevolence in dialogues. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), Online, August 1-6, 2021. (CCF A)[pdf](https://aclanthology.org/2021.acl-long.436.pdf)
