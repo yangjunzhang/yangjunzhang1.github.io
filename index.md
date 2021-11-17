@@ -26,7 +26,7 @@ Main project: Design the health underwriting algorithm for life insurance produc
 -	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
 -	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
 
-### DATASET CONTRIBUION:
+### DATASET CONTRIBUION
 - MDRDC (Malevolent Dialogue Response Detection and Classfication) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
 
 ### PUBLICATIONS
