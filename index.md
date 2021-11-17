@@ -11,27 +11,42 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Yangjun Zhang's homepage
+PhD candidate at University of Amsterdam
+Major: Computer science
+Email: y.zhang6@uva.nl
 
-- Bulleted
-- List
+## Working Experance
 
-1. Numbered
-2. List
+## EDUCATION BACKGROUND
+- 10/2018-present    PhD Candidate of Informatics Institute, University of Amsterdam
+- 09/2015-07/2016    M.A. Quantitative Analysis of Business, City University of Hong Kong
+- 09/2012-07/2015    M.S. Cognitive Neuroscience, Beijing Normal University                         
+- 09/2008-07/2012    B.S. Honors Program (Biological Science), China Agricultural University 
 
-**Bold** and _Italic_ and `Code` text
+## WORKING EXPERIENCES
+- 02/2017-10/2018    Big Data Center of Sunshine Insurance Group, Machine Learning Engineer
+Main project: Design the health underwriting algorithm for life insurance product.
 
-[Link](url) and ![Image](src)
-```
+## INTERNSHIP EXPERIENCES
+-	02/2017-02/2017    Beijing Safety Work Bureau, Data Analyst Internship
+-	10/2016-12/2016    JIC Lease, Financial Analyst Internship 
+-	05/2016-08/2017    Internship at Hong Kong Huanying Securities, Quantitative Investment Internship
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## TEACHING
+-	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
+-	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangjunzhang/yangjunzhang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## PUBLICATIONS
+[1] 	Yangjun Zhang, Pengjie Ren and Maarten de Rijke. A human-machine collaborative framework for evaluating malevolence in dialogues. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), Online, August 1-6, 2021. (CCF A)
+[2] 	Yangjun Zhang, Pengjie Ren and Maarten de Rijke. A taxonomy, data set, and benchmark for detecting and classifying malevolent dialogue responses[J]. The Journal of the Association for Information Science and Technology (JASIST), 2021, accepted. (CCF B, JCR Q1, CAS 2nd group, IF 2.41)
+[3] 	Chao Ma, Yangjun Zhang, Xin Li, Yaojing Chen, Junying Zhang, Zhen Liu, Kewei Chen and Zhanjun Zhang. The TT allele of rs405509 synergizes with APOE 4 in the impairment of cognition and its underlying default mode network in non-demented elderly[J]. Current Alzheimer Research, 2016, 13(6): 708-717. (Co-first author, JCR Q1, CAS 3rd group, IF 3.05)
+[4] 	Chao Ma, Yangjun Zhang, Xin Li, Junying Zhang, Kewei Chen, Ying Liang, Yaojing Chen, Zhen Liu and Zhanjun Zhang. Is there a significant interaction effect between apolipoprotein E rs405509 T/T and ε4 genotypes on cognitive impairment and gray matter volume? [J]. European Journal of Neurology, 2016, 23(9): 1415-1425. (JCR Q1, CAS 2nd group, IF 4.52)
+[5] 	Yangjun Zhang, Pengjie Ren and Maarten de Rijke. Improving background-based conversation with context-aware knowledge pre-selection. Search-Oriented Conversational AI Workshop (SCAI), 2019.
+[6] 	仰和芝, 张仰君. 城镇化进程中失地老年人主观生活质量及其影响因素[J]. 中国公共卫生, 2016, 02: 145-147. (Corresponding Author, CSCD)
+[7] 	张仰君, 卫东锋, 徐凯, 张占军. 黄芩改善学习记忆及治疗阿尔采末病研究进展[J]. 中国药理学通报, 2014, 01: 9-13. (CSSCI)
+[8] 	王京彦, 刘彦, 张仰君, 王海璐, 孟思源, 陈龙, 黄振明. 核保方法及核保系统[P]. 中国, 108765177B. 2020-12-04.
+[9] 	任鹏杰, 宋晓萌, 田洪涛, 张仰君, 陈竹敏, 任昭春, 马军, 梁华盛. 一种人机协同的对话系统评测方法及系统[P]. 中国, 113238947A. 2021-08-10.
+[10] 	Dongfeng Wei, Daojun Xie, He Li, Yaojing Chen, Di Qi, Yujiao Wang, Yangjun Zhang, Kewei Chen, Chuanfu Li and Zhanjun Zhang. The positive effects of Xueshuan Xinmai tablets on brain functional connectivity in acute ischemic stroke: a placebo controlled randomized trial[J]. Scientific Reports, 2017, 7(1): 1-11. (JCR Q1, CAS 3rd group, IF 4.00)
+[11] 	白卫国, 张仰君, 徐凯, 张占军, 虞雪云, 卫东锋. 人参提取物治疗阿尔茨海默病药理作用及机制研究进展[J]. 中国中医药信息杂志, 2016, 09: 126-129.
+[12] 	徐凯, 卫东锋, 张仰君, 张占军. 知母及其提取物改善学习记忆和治疗阿尔茨海默病研究进展[J]. 中国中医药信息杂志, 2014, 06: 132-136.
