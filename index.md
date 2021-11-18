@@ -8,7 +8,7 @@
 I'm currently a PhD candidate majored in computer science from the Information Retrieval Lab (IRLab) at University of Amsterdam, under the supervision of Prof. Maarten de Rijke (elected member of the Royal Netherlands Academy of Arts and Sciences and director of the national Innovation Center for Artificial Intelligence), co-supervision of Christof Monz (head of the Language Technology Lab) and daily supervision of Pengjie Ren (professor of Shandong University). My research interests lie in natural language processing (dialogue systems and complex answer retrieval) and medical information processing (gene, behavior and brain fMRI image).
 
 ### EDUCATION BACKGROUND
-- 10/2018-present    PhD Candidate of Informatics Institute, University of Amsterdam
+- 10/2018-10/2022    PhD Candidate of Informatics Institute, University of Amsterdam
 - 09/2015-07/2016    M.A. Quantitative Analysis of Business, City University of Hong Kong
 - 09/2012-07/2015    M.S. Cognitive Neuroscience, Beijing Normal University                         
 - 09/2008-07/2012    B.S. Honors Program (Biological Science), China Agricultural University 
@@ -26,9 +26,6 @@ Main project: Design the health underwriting algorithm for life insurance produc
 -	Data science and artificial intelligence master student theses supervision at University of Amsterdam. 
 -	Get the certificate for teaching assistant from Teaching and Learning Center at University of Amsterdam.
 
-### DATASET CONTRIBUTION
-- MDRDC (Malevolent Dialogue Response Detection and Classification) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
-
 ### PUBLICATIONS
 1. **Yangjun Zhang**, Pengjie Ren and Maarten de Rijke. A human-machine collaborative framework for evaluating malevolence in dialogues. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), Online, August 1-6, 2021. (CCF A)[pdf](https://aclanthology.org/2021.acl-long.436.pdf)
 2. **Yangjun Zhang**, Pengjie Ren and Maarten de Rijke. A taxonomy, data set, and benchmark for detecting and classifying malevolent dialogue responses[J]. The Journal of the Association for Information Science and Technology (JASIST), 2021, accepted. (CCF B, JCR Q1, CAS 2nd group, IF 2.41)[pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhang-2021-taxonomy.pdf)
@@ -44,6 +41,9 @@ Main project: Design the health underwriting algorithm for life insurance produc
 ### PATENT
 1. 王京彦, 刘彦, **张仰君**, 王海璐, 孟思源, 陈龙, 黄振明. 核保方法及核保系统[P]. 中国, 108765177B. 2020-12-04.
 2. 任鹏杰, 宋晓萌, 田洪涛, **张仰君**, 陈竹敏, 任昭春, 马军, 梁华盛. 一种人机协同的对话系统评测方法及系统[P]. 中国, 113238947A. 2021-08-10.
+
+### DATASET CONTRIBUTION
+- MDRDC (Malevolent Dialogue Response Detection and Classification) dataset [LINK](https://github.com/repozhang/malevolent_dialogue)
 
 ### HONORS AND AWARDS
 - Search-Oriented Conversational AI Workshop Scholarship (2019)
