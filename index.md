@@ -8,8 +8,8 @@
       <p><b>y.zhang6@uva.nl</b></p>
       <p><b>Github page: https://github.com/repozhang</b></p>
     </td>
-    <td width="100%">
-      <img src="/img/img.jpeg" style="width: 30%; height: 30%"/>
+    <td width="25%">
+      <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
     </td>
   </tr>
 </table>
