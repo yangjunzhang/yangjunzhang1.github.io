@@ -1,5 +1,16 @@
 ## Welcome to Yangjun Zhang's Homepage
-<img src="/img/img.jpeg" style="width: 50%; height: 50%"/>
+
+<html>
+    <head>
+    <title></title>
+    </head>    
+    <body>
+        <div>
+          <img src="/img/img.jpeg" style="width: 50%; height: 50%"/>
+        </div>
+    </body>
+</html>
+
 - PhD candidate at University of Amsterdam  
 - Major: Computer science  
 - Email: y.zhang6@uva.nl  
