@@ -5,6 +5,8 @@
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
+theme: jekyll-theme-slate
+
 tracking_id: #
 
 footer: yes
