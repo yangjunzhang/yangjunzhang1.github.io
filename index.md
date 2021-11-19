@@ -1,6 +1,7 @@
 ## Welcome to Yangjun Zhang's Homepage
 
-<table border="0">
+<form action="">
+<table border="0", align="center">
   <tr>
     <td width="25%">
       <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
@@ -13,6 +14,7 @@
     </td>
 
   </tr>
+</form>
 </table>
 
 ### PROFESSIONAL SUMMARY
