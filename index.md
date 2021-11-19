@@ -15,7 +15,7 @@
       <p><b>Github page: https://github.com/repozhang</b></p>
     </td>
     <td width="25%">
-      <img src="/img/img.jpeg" width="100%">      % 插入证件照代码
+      <img src="/img/img.jpeg" width="80%">
     </td>
   </tr>
 </table>
