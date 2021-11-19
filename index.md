@@ -1,5 +1,5 @@
 ## Welcome to Yangjun Zhang's Homepage
-<img src="/img/img.jpeg" width="80%">
+<img src="/img/img.jpeg" style="width: 50%; height: 50%"/>
 - PhD candidate at University of Amsterdam  
 - Major: Computer science  
 - Email: y.zhang6@uva.nl  
