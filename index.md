@@ -8,7 +8,6 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Welcome to Yangjun Zhang's Homepage</h1>
       <p><b>PhD candidate at at University of Amsterdam  </b></p>
       <p><b>Major: Computer science  </b></p>
       <p><b>Email: y.zhang6@uva.nl </b></p>
