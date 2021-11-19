@@ -1,7 +1,7 @@
 ## Welcome to Yangjun Zhang's Homepage
 
 <form action="">
-<table border="0", align="center">
+<table border="0">
   <tr>
     <td width="25%">
       <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
@@ -14,8 +14,8 @@
     </td>
 
   </tr>
-</form>
 </table>
+  </form>
 
 ### PROFESSIONAL SUMMARY
 I'm currently a PhD candidate majored in computer science from the Information Retrieval Lab (IRLab) at University of Amsterdam, under the supervision of Prof. Maarten de Rijke (elected member of the Royal Netherlands Academy of Arts and Sciences and director of the national Innovation Center for Artificial Intelligence), co-supervision of Christof Monz (head of the Language Technology Lab) and daily supervision of Pengjie Ren (professor of Shandong University). My research interests lie in natural language processing (dialogue systems and complex answer retrieval) and medical information processing (gene, behavior and brain fMRI image).
