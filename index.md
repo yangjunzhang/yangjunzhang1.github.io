@@ -6,7 +6,7 @@
     </head>    
     <body>
         <div>
-          <img src="/img/img.jpeg" style="width: 50%; height: 50%"/>
+          <img src="/img/img.jpeg" style="width: 30%; height: 30%"/>
         </div>
     </body>
 </html>
