@@ -1,33 +1,18 @@
 ## Welcome to Yangjun Zhang's Homepage
 
-<html>  
-    <body>
-        <div>
-          <img src="/img/img.jpeg" style="width: 30%; height: 30%"/>
-        </div>
-    </body>
-</html>
-
-
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>PhD candidate at University of Amsterdam</b></p>
+      <p><b>Major: Computer science</b></p>
+      <p><b>y.zhang6@uva.nl</b></p>
+      <p><b>Github page: https://github.com/repozhang</b></p>
     </td>
-    <td width="25%">
+    <td width="100%">
       <img src="/img/img.jpeg" style="width: 30%; height: 30%"/>
     </td>
   </tr>
 </table>
-
-- PhD candidate at University of Amsterdam  
-- Major: Computer science  
-- Email: y.zhang6@uva.nl  
-- Github page: https://github.com/repozhang
 
 ### PROFESSIONAL SUMMARY
 I'm currently a PhD candidate majored in computer science from the Information Retrieval Lab (IRLab) at University of Amsterdam, under the supervision of Prof. Maarten de Rijke (elected member of the Royal Netherlands Academy of Arts and Sciences and director of the national Innovation Center for Artificial Intelligence), co-supervision of Christof Monz (head of the Language Technology Lab) and daily supervision of Pengjie Ren (professor of Shandong University). My research interests lie in natural language processing (dialogue systems and complex answer retrieval) and medical information processing (gene, behavior and brain fMRI image).
