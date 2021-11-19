@@ -1,9 +1,6 @@
 ## Welcome to Yangjun Zhang's Homepage
 
-<html>
-    <head>
-    <title></title>
-    </head>    
+<html>  
     <body>
         <div>
           <img src="/img/img.jpeg" style="width: 30%; height: 30%"/>
