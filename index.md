@@ -1,4 +1,27 @@
 ## Welcome to Yangjun Zhang's Homepage
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
+
+<table class="tablelines">
+  <tbody>
+      <tr>
+    <td width="25%">
+      <img src="/img/img.jpeg" style="width: 100%; height: 100%"/>
+    </td>
+    <td width="75%">
+      <p><b>PhD candidate at University of Amsterdam</b></p>
+      <p><b>Major: Computer science</b></p>
+      <p><b>y.zhang6@uva.nl</b></p>
+      <p><b>Github page: https://github.com/repozhang</b></p>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
 
 <form action="">
 <table border="0">
